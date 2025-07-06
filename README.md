@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Avinash
-- 👀 I’m interested in Techanical Works 
-- 🌱 I’m currently learning GIT/GITHUB AND  JAVASCRIPT
+- 👀 I’m Flutter Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me avinash2596360@gmail.com
 - 😄 Pronouns: ...
