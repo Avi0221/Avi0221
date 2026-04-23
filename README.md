@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 
-<h3 align="center">
-  🚀 Java Developer | 📱 Flutter Developer 
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Flutter+App+Developer;Building+Real+World+Projects🚀" />
+  <img src="https://raw.githubusercontent.com/Avi0221/Avi0221/main/banner.png" width="85%" />
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
